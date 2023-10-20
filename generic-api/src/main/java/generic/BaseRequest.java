@@ -17,7 +17,7 @@ import static io.restassured.RestAssured.urlEncodingEnabled;
 @Accessors(chain = true)
 @Setter
 @Getter
-public class BaseRequest {
+public class   BaseRequest {
     private String url;
     private RequestType requestType;
     private int responseCode = 0;
@@ -98,6 +98,7 @@ public class BaseRequest {
         s.append("Request Body = ").append(this.body).append("\n");
         return s.toString();
     }
+
 
 
 }
