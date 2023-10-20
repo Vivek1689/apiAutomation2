@@ -1,0 +1,11 @@
+/Users/shadabsayeed/IdeaProjects/ApiAutomationFramework/generic-api/src/main/java/model/LoginModel.java
+/Users/shadabsayeed/IdeaProjects/ApiAutomationFramework/generic-api/src/main/java/generic/BaseRequest.java
+/Users/shadabsayeed/IdeaProjects/ApiAutomationFramework/generic-api/src/main/java/generic/BaseResponse.java
+/Users/shadabsayeed/IdeaProjects/ApiAutomationFramework/generic-api/src/main/java/enums/RequestType.java
+/Users/shadabsayeed/IdeaProjects/ApiAutomationFramework/generic-api/src/main/java/stepdefs/MyStepdefs.java
+/Users/shadabsayeed/IdeaProjects/ApiAutomationFramework/generic-api/src/main/java/hooks/ApiHooks.java
+/Users/shadabsayeed/IdeaProjects/ApiAutomationFramework/generic-api/src/main/java/generic/IResponse.java
+/Users/shadabsayeed/IdeaProjects/ApiAutomationFramework/generic-api/src/main/java/generic/RestClient.java
+/Users/shadabsayeed/IdeaProjects/ApiAutomationFramework/generic-api/src/main/java/constants/ApiConstants.java
+/Users/shadabsayeed/IdeaProjects/ApiAutomationFramework/generic-api/src/main/java/mapper/LoginMapper.java
+/Users/shadabsayeed/IdeaProjects/ApiAutomationFramework/generic-api/src/main/java/generic/Auth.java

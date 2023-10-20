@@ -1,0 +1,11 @@
+mapper/LoginMapper.class
+hooks/ApiHooks.class
+generic/BaseRequest.class
+generic/RestClient.class
+generic/Auth.class
+stepdefs/MyStepdefs.class
+enums/RequestType.class
+model/LoginModel.class
+constants/ApiConstants.class
+generic/BaseResponse.class
+generic/IResponse.class
